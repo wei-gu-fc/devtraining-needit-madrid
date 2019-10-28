@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="auto_close_overdue" table="x_58872_needit_needit_properties" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>auto_close_overdue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7</label>
+            <language>en</language>
+            <name>x_58872_needit_needit_properties</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-25 08:18:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0b70f88dbf48010ef4c6f7748961905</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-25 08:21:21</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>auto_close_overdue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>14</label>
+            <language>en</language>
+            <name>x_58872_needit_needit_properties</name>
+            <sequence>14</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-25 08:20:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20380fc8dbf48010ef4c6f77489619f6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-25 08:21:29</sys_updated_on>
+            <value>14</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>auto_close_overdue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>21</label>
+            <language>en</language>
+            <name>x_58872_needit_needit_properties</name>
+            <sequence>21</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-25 08:20:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0484fc8dbf48010ef4c6f774896199e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-25 08:21:34</sys_updated_on>
+            <value>21</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>auto_close_overdue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>28</label>
+            <language>en</language>
+            <name>x_58872_needit_needit_properties</name>
+            <sequence>28</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-25 08:20:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db480bc8dbf48010ef4c6f77489619e5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-25 08:21:39</sys_updated_on>
+            <value>28</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>auto_close_overdue</element>
+            <name>x_58872_needit_needit_properties</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-25 08:18:01</sys_created_on>
+            <sys_id>5cb70f88dbf48010ef4c6f7748961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>auto_close_overdue</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_needit_properties_auto_close_overdue</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-25 08:18:01</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
